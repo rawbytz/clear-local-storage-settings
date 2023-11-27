@@ -1,6 +1,6 @@
 # Clear WorkFlowy User Settings From Local Storage
 - Use this utility if feature toggles are not syncing properly.
-- This clears cached settings from your client's local storage.
+- This clears cached settings from your web app local storage.
 - This script makes no changes to your WorkFlowy data.
 - The page must be reloaded after deleting for changes to take full affect. 
 
